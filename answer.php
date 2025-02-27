@@ -45,19 +45,11 @@
       <div class="right-image">
         <img src="./images/Hello_World_Brian_Kernighan_1978.jpg" alt="laptop image" />
       </div>
-      <div class="page-content">Click the button below.</div>
+      <div class="page-content">Hello, World!</div>
       <br />
-      <!-- Simple Textfield for integers-->
-      <form action="answer.php" method="GET">
-        <br />
-        <!-- Accent-colored raised button with ripple -->
-        <button
-          class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"
-          type="submit">
-          Calculate
-        </button>
-      </form>
-      <br />
+      <div class="page-content-answer">
+        <a href="./index.php">Return ...</a>
+      </div>
     </main>
   </div>
 </body>
